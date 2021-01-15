@@ -1,1 +1,1 @@
-### Link your theory in here
+Different virtual parts of 3D printer will be provided on the interface and student will be able to select the parts to assemble them one by one, placed into the correct position as suggested by the pop-up windows, after completing the mechanical aspects pop-up window will open to give student some facts before starting next phase. Finally student give the commands to start printer in action.
