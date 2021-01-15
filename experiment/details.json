@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "Simulation of polar 3D printing machine",     
+			"Lab": "3D printing lab",               
+			"Discipline": "Mechanical Engineering",				 
+			"Technology": "Additive Manufacturing"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Prof. Rahul Swarup Sharma",         
+      "Institute": "Dayalbagh Educatonal Institute",         
+      "InstituteAcronym": "DEI"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Ajaykant Upadhyay",             
+      "Institute": "Dayalbagh Educatonal Institute",               
+			"InstituteAcronym": "DEI"         
+       },
+
+       {       
+			"Contributer": "Saurabh Bhardwaj",              
+      "Institute": "Dayalbagh Educatonal Institute",               
+			"InstituteAcronym": "DEI"         
+       },
+
+       {       
+			"Contributer": "Chandra Deep Gautam",             
+      "Institute": "Dayalbagh Educatonal Institute",               
+			"InstituteAcronym": "DEI"         
+       },
+
+       {       
+			"Contributer": "Kaamran Khan",              
+      "Institute": "Dayalbagh Educatonal Institute",               
+			"InstituteAcronym": "DEI"         
+       }
+   ]
+
+}
