@@ -1,7 +1,12 @@
-1.	Drag the mouse over a part to see the information about the part.<br>
+Assembly of Polar 3D Printer
+1. Select 'Assembly of Polar 3D Printer' from the visible list.
+2. All the parts related to Polar 3D Printer will be shown on the screen.
+3. Select the parts in sequence in which they are shown.
+4. When first part will be selected then it will open in the blank space in the left side of the screen.
+5. Further, when correct part will be selected then it will get assembled with the previously selcted part/parts. 
+6. If user follows incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-2.	The student will assemble printer parts accordingly.<br>
-
-3.	Guidelines are provided in between the simulation, if student face problem to assemble the printer.<br>
-
-4.	After the assembly is done, student click on to the submit button to check whether assembly is done correctly or not.
+Playing with Axes
+1. Move the r-axis slider and observe the movement of the r-axis assembly.
+2. Move the y-axis slider and observe the movement of the y-axis assembly.
+3. Move the z-axis slider and observe the movement of the z-axis assembly.
