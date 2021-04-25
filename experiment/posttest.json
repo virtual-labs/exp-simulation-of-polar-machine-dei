@@ -1,1 +1,46 @@
-[{"question":" How does a 3D printer works?","answers":{"a":"Mechanically","b":"Electrically","c":"Both of the above","d":"None of these"},"correctAnswer":"c"},{"question":"What are the parts of 3D Printer?","answers":{"a":"Build area","b":"Filament diameter","c":"Nozzle and extruder","d":"None of these"},"correctAnswer":"c"},{"question":"In which direction 3d Printer print a part?","answers":{"a":"X direction","b":"Y direction","c":"Z direction","d":"All of the above"},"correctAnswer":"d"},{"question":"End stop is used in 3D printer to:","answers":{"a":"Stop the printer","b":"Start the printer","c":"Set home position of the printer","d":"Define the maximum limit of a direction"},"correctAnswer":"d"},{"question":"A heat bed can move in:","answers":{"a":"X direction","b":"Y direction","c":"Z direction","d":"All of the above"},"correctAnswer":"b"}]
+[{
+	"question": " How does a 3D printer works?",
+	"answers": {
+		"a": "Mechanically",
+		"b": "Electrically",
+		"c": "Both of the above",
+		"d": "None of these"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "What are the parts of 3D Printer?",
+	"answers": {
+		"a": "Build area",
+		"b": "Filament diameter",
+		"c": "Nozzle and extruder",
+		"d": "None of these"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "In which direction 3d Printer print a part?",
+	"answers": {
+		"a": "X direction",
+		"b": "Y direction",
+		"c": "Z direction",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "End stop is used in 3D printer to:",
+	"answers": {
+		"a": "Stop the printer",
+		"b": "Start the printer",
+		"c": "Set home position of the printer",
+		"d": "Define the maximum limit of a direction"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "A heat bed can move in:",
+	"answers": {
+		"a": "X direction",
+		"b": "Y direction",
+		"c": "Z direction",
+		"d": "All of the above"
+	},
+	"correctAnswer": "b"
+}]
